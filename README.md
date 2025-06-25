@@ -9,5 +9,3 @@ LLMs understand markdown much better than HTML. This extension removes the visua
 - Better LLM comprehension
 - Fewer tokens than raw HTML
 - Cleaner content than copy/paste
-
-Perfect for feeding web content into AI models for analysis, summarization, or processing.
