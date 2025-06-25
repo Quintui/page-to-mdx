@@ -2,7 +2,7 @@
   "name": "page-to-mdx",
   "description": "Convert web pages to clean MDX format optimized for LLMs",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",

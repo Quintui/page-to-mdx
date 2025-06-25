@@ -7,8 +7,6 @@ export default defineConfig({
   manifest: {
     name: "Page to MDX",
     description: "Convert web pages to clean MDX format optimized for LLMs",
-    permissions: ["tabs", "activeTab"],
-    host_permissions: ["<all_urls>"],
   },
   vite: () => {
     return {
