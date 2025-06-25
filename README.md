@@ -1,3 +1,13 @@
-# WXT + React
+# Page to MDX
 
-This template should help get you started developing with React in WXT.
+Convert any webpage to clean MDX format optimized for LLMs.
+
+## Why?
+
+LLMs understand markdown much better than HTML. This extension removes the visual clutter and converts pages to structured markdown, giving you:
+
+- Better LLM comprehension
+- Fewer tokens than raw HTML
+- Cleaner content than copy/paste
+
+Perfect for feeding web content into AI models for analysis, summarization, or processing.
